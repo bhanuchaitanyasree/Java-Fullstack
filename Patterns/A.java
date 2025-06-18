@@ -21,6 +21,9 @@ class A
 {
 public static void main(String[] args)
 {
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the number:");
+int n=sc.nextInt();
 for(int i=1;i<6;i++)
 {
 for(int j=1;j<6;j++)
@@ -36,6 +39,9 @@ class A
 {
 public static void main(String[] args)
 {
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the number:");
+int n=sc.nextInt();
 for(int i=1;i<6;i++)
 {
 for(int j=1;j<6;j++)
@@ -51,6 +57,8 @@ class A
 {
 public static void main(String[] args)
 {
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the number:");
 int num=1;
 for(int i=1;i<=5;i++)
 {
@@ -68,6 +76,8 @@ class A
 {
 public static void main(String[] args)
 {
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the number:");
 int num=1;
 for(int i=1;i<=5;i++)
 {
@@ -89,6 +99,8 @@ class A
 {
 public static void main(String[] args)
 {
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the number:");
 int num=1;
 for(int i=1;i<=5;i++)
 {
@@ -106,6 +118,8 @@ class A
 {
 public static void main(String[] args)
 {
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the number:");
 String pattern ="10101";
 System.out.println("pattern");
 for(int i=0;i<5;i++)
@@ -160,6 +174,7 @@ System.out.println();
 }
 }
 }*/
+/*10.
 import java.util.Scanner;
 class A
 {
@@ -177,7 +192,7 @@ System.out.print(word.charAt(j)+" ");
 System.out.println();
 }
 }
-}
+}*/
 
 
 
