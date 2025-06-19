@@ -1,5 +1,4 @@
-/*LOOPS*/
-/*1.BRIGTH IT CAREER
+/*1.
 class B 
 {
 public static void main(String[] args)
@@ -10,9 +9,7 @@ System.out.println("BRIGTH IT CAREER");
 }
 }
 }*/
-
-
-/*2.while loop
+/*2.
 class B
 {
 public static void main(String[] args)
@@ -25,9 +22,7 @@ i++;
 }
 }
 }*/
-
-
-/*3.equal and not equal
+/*3.
 class B
 {
 public static void main(String[] args)
@@ -53,7 +48,7 @@ System.out.println("not equal");
 }
 }
 */
-/*4.odd and even
+/*4.
 import java.util.Scanner;
 class B
 {
@@ -78,8 +73,7 @@ System.out.println("odd number:" +i);
 }
 }
 */
-
-/*5.largest number
+/*5.
 import java.util.Scanner;
 class B
 {
@@ -106,7 +100,7 @@ System.out.println("c is largest number b" +c);
 }
 }
 }*/
-/*6. even nuber using while
+/*6. 
 class B
 {
 public static void main(String[] args)
@@ -122,7 +116,7 @@ i++;
 }
 }
 }*/
-/*7.do while
+/*7.
 class B
 {
 public static void main(String[] args)
@@ -132,10 +126,9 @@ do{
 System.out.println(" 1 to 10:" +i);
 i++;
 }while(i<=10);
-
  }
 }*/
-/*8 armstrong number
+/*8 
 import java.util.Scanner;
 class B
 {
@@ -163,8 +156,7 @@ System.out.println("the number is not a armstrong number:");
 }
 }
 }*/
-
-/*9.prime numbers
+/*9.
 import java.util.Scanner;
 
 public class B{
@@ -199,8 +191,7 @@ else
         }
     }
 }*/
-
-/*10.palindrom number
+/*10.
 import java.util.Scanner;
 
 public class B {
@@ -227,8 +218,7 @@ int reverse = 0;
         }
     }
 }*/
-
-/*11.even and odd switch
+/*11.
 import java.util.Scanner;
 public class B
  {
@@ -251,7 +241,7 @@ public class B
  scanner.close();
     }
 }*/
-/*12 switch case
+/*12 
 import java.util.Scanner;
 
 public class B
